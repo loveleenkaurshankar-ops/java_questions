@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/0933-number-of-recent-calls) |
+| [1603-design-parking-system](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/0709-to-lower-case) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
