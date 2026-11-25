@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/0709-to-lower-case) |
 ## Simulation
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/1603-design-parking-system) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
