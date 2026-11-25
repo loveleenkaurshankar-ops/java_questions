@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/loveleenkaurshankar-ops/java_questions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
